@@ -52,6 +52,11 @@ button{
     padding: 10px;
     margin-left: 70px;
     border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: green;
 }
 
 .head-text{
@@ -168,3 +173,4 @@ h1{
 .t{
     font-weight: lighter;
 }
+
